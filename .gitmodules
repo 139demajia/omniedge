@@ -43,3 +43,6 @@
 [submodule "omniedge-frontend"]
 	path = omniedge-frontend
 	url = https://github.com/omniedgeio/omniedge-frontend.git
+[submodule "omniedge-cli/internal/n2n"]
+	path = omniedge-cli/internal/n2n
+	url = https://github.com/omniedgeio/n2n.git
